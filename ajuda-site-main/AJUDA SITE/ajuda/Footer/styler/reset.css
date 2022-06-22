@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Lista-box li {
+    list-style-type: none;
+}
+li a {
+    text-decoration: none;
+    border: none;
+}
+a {
+    text-decoration: none;
+    border: none;
+}
